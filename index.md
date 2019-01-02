@@ -10,7 +10,8 @@
 6. [06-part 1/1](hw06)
 7. [07-part 1/1](hw07)
 8. [08-part 1 and part 2](hw08)
-9. [09-bubble sort…](hw09)
+9. [09-part 1/1](hw09)
+10.[10-bubble sort…](hw10)
 
 
 ## 实验与实践
