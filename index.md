@@ -11,7 +11,7 @@
 7. [07-part 1/1](hw07)
 8. [08-part 1 and part 2](hw08)
 9. [09-part 1/1](hw09)
-10.[10-bubble sort…](hw10)
+10. [10-bubble sort…](hw10)
 
 
 ## 实验与实践
