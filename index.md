@@ -3,14 +3,14 @@
 ## 课后作业
 
 1. [01-使用维基百科（Wikipedia）解释名词](hw01)
-2. [02-](hw02)
-3. [03-](hw03)
-4. [04-](hw04)
-5. [05-](hw05)
-6. [06-](hw06)
-7. [07-](hw07)
-8. [08-](hw08)
-9. [09-](hw09)
+2. [02-进制转换and维基百科解释名词and英文单词解释](hw02)
+3. [03-part 1 and part 2](hw03)
+4. [04-维基百科解释 and answers of questions](hw04)
+5. [05-part 1 and part 2](hw05)
+6. [06-part 1/1](hw06)
+7. [07-part 1/1](hw07)
+8. [08-part 1 and part 2](hw08)
+9. [09-bubble sort…](hw09)
 
 
 ## 实验与实践
